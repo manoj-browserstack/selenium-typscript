@@ -1,0 +1,12 @@
+userName: username
+accessKey: access_key
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 118.0
+buildName: Selenium-Typscript
+projectName: Selenium Sample
+debug: false
+networkLogs: false
+consoleLogs: errors
